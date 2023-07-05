@@ -1,0 +1,8 @@
+.template-form {
+    width: 800px; /* Adjust the width as needed */
+    padding: 20px;
+    background-color: hwb(286 70% 10%);
+    border: 1px solid hsl(210, 49%, 67%);
+    border-radius: 10px;
+  }
+  
